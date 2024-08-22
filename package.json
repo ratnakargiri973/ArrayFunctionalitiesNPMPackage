@@ -1,0 +1,12 @@
+{
+  "name": "array_functionalities_ratnakar",
+  "version": "1.0.0",
+  "description": "npm package of some array functionalities",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ratnakar Giri",
+  "license": "ISC"
+}
